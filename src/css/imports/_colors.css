@@ -4,6 +4,50 @@
   color: var(--primary);
 }
 
+.secondary {
+  color: var(--secondary);
+}
+
+.tertiary {
+  color: var(--tertiary);
+}
+
+.primary-2 {
+  color: var(--primary-2);
+}
+
+.primary-4 {
+  color: var(--primary-4);
+}
+
+.secondary-2 {
+  color: var(--secondary-2);
+}
+
+.secondary-4 {
+  color: var(--secondary-4);
+}
+
+.tertiary-2 {
+  color: var(--tertiary-2);
+}
+
+.tertiary-4 {
+  color: var(--tertiary-4);
+}
+
+.primary-dark {
+  color: var(--primary-dark);
+}
+
+.secondary-dark {
+  color: var(--secondary-dark);
+}
+
+.tertiary-dark {
+  color: var(--tertiary-dark);
+}
+
 .highlight {
   color: var(--highlight);
 }
@@ -38,6 +82,38 @@
 
 .bg-primary {
   background-color: var(--primary);
+}
+
+.bg-primary-2 {
+  background-color: var(--primary-2);
+}
+
+.bg-primary-4 {
+  background-color: var(--primary-4);
+}
+
+.bg-secondary {
+  background-color: var(--secondary);
+}
+
+.bg-secondary-2 {
+  background-color: var(--secondary-2);
+}
+
+.bg-secondary-4 {
+  background-color: var(--secondary-4);
+}
+
+.bg-tertiary {
+  background-color: var(--tertiary);
+}
+
+.bg-tertiary-2 {
+  background-color: var(--tertiary-2);
+}
+
+.bg-tertiary-4 {
+  background-color: var(--tertiary-4);
 }
 
 .bg-highlight {

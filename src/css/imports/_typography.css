@@ -6,6 +6,10 @@ html {
   @media (--breakpoint-large) {
     font-size: var(--font-size-l);
   }
+
+  @media (--breakpoint-xlarge) {
+    font-size: var(--font-size-xl);
+  }
   background-color: var(--black);
 }
 
@@ -19,6 +23,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--off-white);
  }
+
+.alt {
+  font-family: var(--font-family-alt);
+  font-weight: 700;
+}
 
 p {
   margin-bottom: var(--spacing-medium);

@@ -1,6 +1,21 @@
 :root {
 	/* Colors */
-	--primary: rgba(255, 68, 0, 1);
+	--primary: #FFA200;
+	--primary-2: #FFC933;
+	--primary-4: #FFFCF2;
+	--primary-dark: #332A1A;
+
+	--secondary: #F25100;
+	--secondary-2: #F57231;
+	--secondary-4: #FFF7F2;
+	--secondary-dark: #33221A;
+
+
+	--tertiary: #E60026;
+	--tertiary-2: #E62E4D;
+	--tertiary-4: #FFF2F4;
+	--tertiary-dark: #331A1E;
+
 	--highlight: rgba(254, 213, 198, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
@@ -11,15 +26,17 @@
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: 'Barlow', sans-serif;;
+	--font-family-alt: 'Barlow Condensed', sans-serif;;
 	--line-height: 1.5;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size-l: 24px;
+	--font-size-xl: 1.55vw;
 
 	--body-font-weight: 400;
-	--bold-font-weight: 700;
+	--bold-font-weight: 600;
 
 	/* Sizing */
 	--spacing-none: 0;

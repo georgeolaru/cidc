@@ -1,6 +1,6 @@
 .ttc { text-transform: capitalize; }
 .ttl { text-transform: lowercase; }
-.ttu { text-transform: uppercase; }
+.ttu { text-transform: uppercase; letter-spacing: .05em; }
 .ttn { text-transform: none; }
 
 @media (--breakpoint-not-small) {

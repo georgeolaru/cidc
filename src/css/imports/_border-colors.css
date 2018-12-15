@@ -2,6 +2,22 @@
   border-color: var(--primary);
 }
 
+.b--primary-2 {
+  border-color: var(--primary-2);
+}
+
+.b--primary-4 {
+  border-color: var(--primary-4);
+}
+
+.b--secondary-4 {
+  border-color: var(--secondary-4);
+}
+
+.b--tertiary-4 {
+  border-color: var(--tertiary-4);
+}
+
 .b--highlight {
   border-color: --var(--highlight);
 }

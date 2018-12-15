@@ -1,5 +1,5 @@
 ---
-title: "Creativ inainte de cafea"
+title: "Creativ înainte de cafea"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:

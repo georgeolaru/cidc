@@ -1,5 +1,7 @@
 .b--dotted { border-style: dotted; }
+.bt--dotted { border-top-style: dotted; }
 .b--dashed { border-style: dashed; }
+.bt--dashed { border-top-style: dashed; }
 .b--solid {  border-style: solid; }
 .b--none {   border-style: none; }
 
