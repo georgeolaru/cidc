@@ -2,9 +2,13 @@
   <div class="container flex-l justify-between">
     <img src="img/avatar-oana.jpg" class="self-start w-100 ma w-50-m w-30-l mr5-ns">
     <div class="measure-wide lh-copy w-70-l">
-        <h4 class="f3 alt primary-2 dn db-l">Salut,</h3>
+        <h3 class="f3 alt primary-2 dn db-l">
+          {{ .Params.story.subtitle }}
+        </h3>
         <h1 class="alt mb3 mb4-ns mt3 mt5-l f2 f2-ns f1-m f-subheadline-l lh-solid">
-        Sunt Oana și vreau să îți spun o poveste.</h1>
+          {{ .Params.story.titlu }}
+        </h1>
+
         <p>În 2011 am cunoscut-o pe Adriana — o apariție care m-a surprins cu numărul de espresso-uri devorate într-o oră și viteza cu care conecta idei. Șapte ani mai târziu, vorbește domol, și-a reglat relația cu cafeaua, dar adună în continuare oameni și construiește <strong>comunități</strong>.</p>
 
         <p>Împreună am făcut Creative Coffee, o întâlnire (aproape) lunară cu antreprenori din <strong>industriile creative</strong>. Am ținut-o așa trei ani, dintre care ultimul l-am petrecut singură la vâsle și am avut timp să îmi iau multe bobârnace, dar și să adun lecții utile la casa omului. Creative Coffee mi-a fost ca o școală alternativă de disciplină, inițiativă și dorință de schimbare.</p>
@@ -28,10 +32,10 @@
   <div class="container flex-l justify-between">
     <img src="img/cana-madalina.png" class="self-start w-90 w-50-m w-30-l mr5-ns mb3 mt3 mt0-l">
     <div class="measure-wide lh-copy w-70-l">
-        <h4 class="f3 alt">Prima ediție cu</h3>
-        <h1 class="f1 f2-ns f1-m f-subheadline-l alt lh-solid">Mădălina Teler</h1>
+        <h4 class="f3 alt">{{ .Params.eveniment.subtitlu }}</h3>
+        <h1 class="f1 f2-ns f1-m f-subheadline-l alt lh-solid">{{ .Params.eveniment.titlu }}</h1>
         <p class="mb1 mt3">Viața în sine e un cerc, la fel ca și relația mea cu Mădălina. I-am luat un interviu când a vorbit despre <em>inima ei de lut</em>, am scos-o la cafea la București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu face ceramică, cu tot ce înseamnă asta.</p>
-        <h3 class="f3 alt mb3">Sâmbătă 19 Ianuarie, Iași</h3>
+        <h3 class="f3 alt mb3">{{ .Params.eveniment.detalii }}</h3>
         <a class="f4 link br1 ph3 pv2 mb2 dib alt primary-2 bg-tertiary" href="#">Detalii în curând</a>
     </div>
   </div>
@@ -41,8 +45,8 @@
   <div class="container flex-l justify-between">
     <img src="img/empty.png" class="self-start w-90 w-50-m w-30-l mr5-ns dn db-l">
     <div class="measure-wide lh-copy w-70-l">
-        <h3 class="f1 f2-ns f1-m f2-l alt lh-solid">Susținători </h3>
-        <p class="mb1 mt3">Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și cărora le mulțumesc. Fără aceste spirite creative, nu aș fi avut curajul să mă înham la povocarea asta.</p>
+        <h3 class="f1 f2-ns f1-m f2-l alt lh-solid">{{ .Params.sustinatori.titlu }}</h3>
+        <p class="mb1 mt3">{{ .Params.sustinatori.descriere }}</p>
         <div class="mt4 flex flex-wrap justify-between">
           <div class="w-40 tc mb4">
             <img src="img/avatar-ilinca.jpg" class="">
@@ -70,8 +74,8 @@
     <img src="img/cana-random-8.png" class="self-start w-90 w-50-m w-30-l mr5-ns dn db-l">
     <!-- <img src="img/empty.png" class="self-start w-90 w-50-m w-30-l mr5-ns"> -->
     <div class="measure-narrow lh-copy w-70-l">
-        <h1 class="f2 f2-ns f1-m f2-l alt lh-solid">De găsit</h1>
-        <p class="mb4 mt3">Vremuri mai bune de dat peste oameni nu au fost. Pe mine, cel mai ușor mă găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel încât să fiu generoasă când îți răspund.</p>
+        <h1 class="f2 f2-ns f1-m f2-l alt lh-solid">{{ .Params.contact.titlu }}</h1>
+        <p class="mb4 mt3">{{ .Params.contact.descriere }}</p>
         <a class="f4 link alt" href="mailto:oana@pixelgrade.com">Scrie-mi un mail →</a>
     </div>
   </div>
