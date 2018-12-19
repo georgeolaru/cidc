@@ -1,5 +1,5 @@
 ---
-titlu: "Creativ înainte de cafea"
+title: "Creativ înainte de cafea"
 descriere: "Creativ înainte de cafea este o metaforă ascunsă sub forma unui eveniment pe care îl voi pune cap-la-cap de fiecare dată când o să simt că pot să scot o poveste de felul ăsta în lume."
 image: /img/home-jumbotron.jpg
 story:
