@@ -10,7 +10,7 @@ eveniment:
     subtitlu: "Prima ediție cu"
     titlu: "Mădălina Teler"
     descriere: "Viața în sine e un cerc, la fel ca și relația mea cu Mădălina. I-am luat un interviu când a vorbit despre inima ei de lut, am scos-o la cafea la București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu face ceramică, cu tot ce înseamnă asta."
-    detalii: "Sâmbătă 19 Ianuarie, Iași" 
+    detalii: "Duminică 20 Ianuarie, Iași" 
 sustinatori:
     titlu: "Susținători"
     descriere: "Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și cărora le mulțumesc. Fără aceste spirite creative, nu aș fi avut curajul să mă înham la povocarea asta."
