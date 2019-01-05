@@ -16,6 +16,6 @@ sustinatori:
     descriere: "Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și cărora le mulțumesc. Fără aceste spirite creative, nu aș fi avut curajul să mă înham la povocarea asta."
 contact:
     titlu: "De găsit"
-    descriere: "Vremuri mai bune de găsit peste oameni nu au fost. Pe mine, cel mai ușor mă găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel încât să fiu generoasă când îți răspund."
+    descriere: "Vremuri mai bune de găsit oameni nu au fost. Pe mine, cel mai ușor mă găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel încât să fiu generoasă când îți răspund."
 ---
 
