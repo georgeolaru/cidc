@@ -20,4 +20,3 @@ contact:
     titlu: "De găsit"
     descriere: "Vremuri mai bune de stat la povești nu au fost. Pe mine, cel mai ușor mă găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel încât să fiu generoasă atunci când îți răspund."
 ---
-
