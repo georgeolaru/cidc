@@ -8,7 +8,7 @@ story:
 eveniment:
     subtitlu: "Prima ediție cu"
     titlu: "Mădălina Teler"
-    descriere: "Viața în sine e un cerc, la fel ca și relația mea cu Mădălina. I-am luat un interviu când a vorbit despre <em>inima ei de lut</em>, am scos-o la cafea la București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu face ceramică, cu tot ce înseamnă asta."
+    descriere: "Viața în sine e un cerc, la fel ca și relația mea cu Mădălina. I-am luat un interviu când a vorbit despre _inima ei de lut_, am scos-o la cafea la București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu face ceramică, cu tot ce înseamnă asta."
     detalii: "Duminică, 20 Ianuarie, Fab Lab Iași" 
     buton_label: "Cumpără bilet"
     buton_link: "https://www.eventbrite.com/e/creativ-inainte-de-cafea-1-cu-madalina-teler-tickets-54445860033"

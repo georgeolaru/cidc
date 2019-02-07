@@ -25,7 +25,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Link Buton", name: "buton_link", widget: "string"}]}
           - {label: "Susținători", name: sustinatori, widget: object, fields: [
               {label: "Titlu", name: "titlu", widget: "string"},
-              {label: "Descriere", name: "descriere", widget: "text"}]}
+              {label: "Descriere", name: "descriere", widget: "markdown"}]}
           - {label: "Contact", name: "contact", widget: "object", fields: [
               {label: "Titlu", name: "titlu", widget: string},
-              {label: "Descriere", name: "descriere", widget: "text"}]}
+              {label: "Descriere", name: "descriere", widget: "markdown"}]}

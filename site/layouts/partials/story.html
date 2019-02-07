@@ -34,7 +34,7 @@
     <div class="measure-wide lh-copy w-70-l">
         <h4 class="f3 alt">{{ .Params.eveniment.subtitlu }}</h3>
         <h1 class="f1 f2-ns f1-m f-subheadline-l alt lh-solid">{{ .Params.eveniment.titlu }}</h1>
-        <p class="mb1 mt3">{{ .Params.eveniment.descriere | safeHTML }}</p>
+        <p class="mb1 mt3">{{ .Params.eveniment.descriere | markdownify }}</p>
         <h3 class="f3 alt mb3">{{ .Params.eveniment.detalii }}</h3>
         <a class="f4 link br1 ph3 pv2 mb2 dib alt primary-2 bg-tertiary" href="{{ .Params.eveniment.buton_link }}" target="_blank
         ">{{ .Params.eveniment.buton_label }}</a>
@@ -47,7 +47,7 @@
     <img src="img/empty.png" class="self-start w-90 w-50-m w-30-l mr5-ns dn db-l">
     <div class="measure-wide lh-copy w-70-l">
         <h3 class="f1 f2-ns f1-m f2-l alt lh-solid">{{ .Params.sustinatori.titlu }}</h3>
-        <p class="mb1 mt3">{{ .Params.sustinatori.descriere | safeHTML }}</p>
+        <p class="mb1 mt3">{{ .Params.sustinatori.descriere | markdownify }}</p>
         <div class="mt4 flex flex-wrap justify-between">
           <div class="w-40 tc mb4">
             <img src="img/avatar-ilinca.jpg" class="">
@@ -76,7 +76,7 @@
     <!-- <img src="img/empty.png" class="self-start w-90 w-50-m w-30-l mr5-ns"> -->
     <div class="measure-narrow lh-copy w-70-l">
         <h1 class="f2 f2-ns f1-m f2-l alt lh-solid">{{ .Params.contact.titlu }}</h1>
-        <p class="mb4 mt3">{{ .Params.contact.descriere | safeHTML }}</p>
+        <p class="mb4 mt3">{{ .Params.contact.descriere | markdownify }}</p>
         <a class="f4 link alt" href="mailto:oana@pixelgrade.com">Scrie-mi un mail →</a>
     </div>
   </div>
