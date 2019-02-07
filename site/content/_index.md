@@ -16,7 +16,7 @@ eveniment:
     interviu când a vorbit despre _inima ei de lut_, am scos-o la cafea la
     București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu
     face ceramică, cu tot ce înseamnă asta.
-  subtitlu: A doua ediție cu
+  subtitlu: Prima ediție cu
   titlu: Mădălina Teler
 sustinatori:
   descriere: >-
