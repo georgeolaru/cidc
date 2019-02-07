@@ -7,7 +7,7 @@ story:
     titlu: "Sunt Oana și vreau să îți spun o poveste."
     text: "În 2011 am cunoscut-o pe Adriana — o apariție care m-a surprins cu numărul de espresso-uri devorate într-o oră și viteza cu care conecta idei. Șapte ani mai târziu, vorbește domol, și-a reglat relația cu cafeaua, dar adună în continuare oameni și construiește comunități."
 eveniment:
-    subtitlu: "A doua ediție cu"
+    subtitlu: "Prima ediție cu"
     titlu: "Mădălina Teler"
     descriere: "Viața în sine e un cerc, la fel ca și relația mea cu Mădălina. I-am luat un interviu când a vorbit despre <em>inima ei de lut</em>, am scos-o la cafea la București și i-am adus ceștile în Iași. Vine să vorbim despre cine e când nu face ceramică, cu tot ce înseamnă asta."
     detalii: "Duminică, 20 Ianuarie, Fab Lab Iași" 
