@@ -8,7 +8,7 @@
         <h1 class="alt mb3 mb4-ns mt3 mt5-l f2 f2-ns f1-m f-subheadline-l lh-solid">
           {{ .Params.story.titlu }}
         </h1>
-        {{ .Params.story.text | safeHTML }}
+        {{ .Params.story.text | markdownify }}
     </div>
   </div>
 </article>
