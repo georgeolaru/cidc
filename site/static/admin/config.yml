@@ -16,12 +16,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Meta Description, name: descriere, widget: text}
           - {label: "Story", name: story, widget: object, fields: [
               {label: "Subtitlu", name: "story.subtitle", widget: string},
-              {label: "Titlu", name: "story.titlu", widget: string}
+              {label: "Titlu", name: "story.titlu", widget: string}]}
           - {label: "Eveniment", name: eveniment, widget: object, fields: [
               {label: "Subtitlu", name: "subtitlu", widget: string},
-              {label: "Titlu", name: "titlu", widget: "string"}]},
-              {label: "Descriere", name: "descriere", widget: "markdown"}]},
-              {label: "Label Buton", name: "buton_label", widget: "string"}]},
+              {label: "Titlu", name: "titlu", widget: "string"},
+              {label: "Descriere", name: "descriere", widget: "markdown"},
+              {label: "Label Buton", name: "buton_label", widget: "string"},
               {label: "Link Buton", name: "buton_link", widget: "string"}]}
           - {label: "Susținători", name: sustinatori, widget: list, fields: [
               {label: "Titlu", name: "titlu", widget: "string"},
