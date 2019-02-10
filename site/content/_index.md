@@ -59,6 +59,7 @@ eveniment:
     and memories through artistic portrayals, converting them into alternate
     realities (sometimes simply called stories).
   image: img/cana-madalina.png
+  detalii: 
   subtitlu: A doua ediție cu
   titlu: George Roșu
 sustinatori:

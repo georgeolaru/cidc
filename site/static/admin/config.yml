@@ -24,6 +24,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Subtitlu", name: "subtitlu", widget: string},
               {label: "Titlu", name: "titlu", widget: "string"},
               {label: "Descriere", name: "descriere", widget: "markdown"},
+              {label: "Detalii", name: "detalii", widget: "string"},
               {label: "Imagine", name: "image", widget: "image", allow_multiple: false, default: "img/cana-madalina.png"},
               {label: "Label Buton", name: "buton_label", widget: "string"},
               {label: "Link Buton", name: "buton_link", widget: "string"}]}
