@@ -54,7 +54,7 @@ eveniment:
   buton_link: '#'
   descriere: >-
     George Roșu mi-a făcut cadou de ziua mea un desen cu
-    sertarul_\#astăzimi-aplăcut_, o metaforă pentru un exercițiu zilnic de
+    sertarul_\#astăzimi-aplăcut_, o născocire pentru un exercițiu zilnic de
     recunoștință pe care îl fac de aproape 9 ani. De când l-am primit nu am mai
     schimbat _wallpaperul_ de pe telefon. E un artist pe care îl urmăresc
     aproape obsesiv tocmai pentru autenticitate de care dă dovadă în tot ce
