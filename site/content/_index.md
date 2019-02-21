@@ -50,8 +50,9 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Detalii în curând
-  buton_link: '#'
+  buton_label: Cumpără bilet
+  buton_link: >-
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-2-cu-george-rosu-tickets-56468272122
   descriere: >-
     George Roșu mi-a făcut cadou de ziua mea un desen cu
     sertarul_\#astăzimi-aplăcut_, o născocire pentru un exercițiu zilnic de
