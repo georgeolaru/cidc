@@ -34,3 +34,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Contact", name: "contact", widget: "object", fields: [
               {label: "Titlu", name: "titlu", widget: string},
               {label: "Descriere", name: "descriere", widget: "markdown"}]}
+      - file: "site/content/newsletter/_index.md"
+        label: "Newsletter"
+        name: "newsletter"
+        fields:
+          - {label: "Meta Title", name: title, widget: string}
+          - {label: "Meta Description", name: descriere, widget: text}
+          - {label: "Story", name: story, widget: object, fields: [
+              {label: "Subtitlu", name: "subtitle", widget: string},
+              {label: "Titlu", name: "titlu", widget: string},
+              {label: "Text", name: text, widget: text}]}
+              {label: "Imagine", name: "image", widget: "image", allow_multiple: false, default: "img/avatar-oana-bg-primary-2.jpg"}]}
+          - {label: "Newsletter", name: newsletter, widget: object, fields: [
+              {label: "Subtitlu", name: "subtitle", widget: string},
+              {label: "Titlu", name: "title", widget: "string"},
+              {label: "Imagine", name: "image", widget: "image", allow_multiple: false, default: "img/-cic-george-rosu-mug.png"}]}

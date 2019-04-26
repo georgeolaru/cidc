@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<article class="ph3 pv4 pa5-ns tertiary bg-primary-2 story">
+  <div class="container flex-l justify-between">
+    <img src="{{ .Params.story.image }}" class="self-start w-100 ma w-50-m w-30-l mr5-ns">
+    <div class="measure-wide lh-copy w-70-l">
+        <h3 class="f3 alt not-primary-2 dn db-l">
+          {{ .Params.story.subtitle }}
+        </h3>
+         <h1 class="alt mb3 mb4-ns mt3 mt5-l f2 f2-ns f1-m f-subheadline-l lh-solid">
+          {{ .Params.story.titlu }}
+        </h1>
+        {{ .Params.story.text | safeHTML }}
+
+        <!-- {{ partial "newsletter-form" . }} -->
+        
+    </div>
+  </div>
+</article>
+
+<article class="ph3 pv4 pa5-ns tertiary-4 bg-tertiary">
+  <div class="container flex-l justify-between">
+    <img src="{{ .Params.newsletter.image }}" class="self-start w-90 w-50-m w-30-l mr5-ns mb3 mt3 mt0-l">
+    <div class="measure-wide lh-copy w-70-l">
+        <h3 class="f1 alt">{{ .Params.newsletter.title }}</h4>
+        {{ .Params.newsletter.text | safeHTML}}
+        <h3 class="f4 alt mb3 mt3">{{ .Params.newsletter.subtitle }}</h3>
+		{{ partial "newsletter-form" . }}
+    </div>
+  </div>
+</article>
+
+{{ end }}
