@@ -1,6 +1,6 @@
 ---
 title: Newsletter Creativ înainte de cafea
-descriere: creativ
+descriere: creativ!
 story:
   image: /img/avatar-oana-bg-primary-2.jpg
   subtitle: Newsletter
