@@ -23,7 +23,7 @@
     <img src="{{ .Params.newsletter.image }}" class="self-start w-90 w-50-m w-30-l mr5-ns mb3 mt3 mt0-l">
     <div class="measure-wide lh-copy w-70-l">
         <h3 class="f1 alt">{{ .Params.newsletter.title }}</h4>
-        {{ .Params.newsletter.text | safeHTML}}
+        {{ .Params.newsletter.text | safeHTML }}
         <h3 class="f4 alt mb3 mt3">{{ .Params.newsletter.subtitle }}</h3>
 		{{ partial "newsletter-form" . }}
     </div>
