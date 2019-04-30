@@ -60,7 +60,7 @@ eveniment:
     mai schimbat _wallpaperul_ de pe telefon. E un artist pe care îl urmăresc
     aproape obsesiv tocmai pentru **autenticitatea** de care dă dovadă în tot ce
     face. E o bucurie imensă că am ocazia să îl aduc la Iași.
-  image: /img/-cic-george-rosu-mug.png
+  image: /img/-cic-andreea-giuclea-mug.png
   subtitlu: A doua ediție cu
   titlu: George Roșu
 sustinatori:
