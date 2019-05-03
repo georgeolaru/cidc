@@ -54,13 +54,13 @@ eveniment:
   buton_link: >-
     https://www.eventbrite.com/e/creativ-inainte-de-cafea-3-cu-andreea-giuclea-tickets-61285979013
   descriere: >-
-    O cunosc pe **Andreea Giuclea** de când am lucrat împreună cu ea și restul
+    O cunosc pe **Andreea** de când am lucrat împreună cu ea și restul
     echipajului DOR la una dintre edițiile _The Power of Storytelling_. E
     reporter sportiv la Lead.ro și DOR, autoarea cărții _Neînvinșii_ (am citit-o
-    dintr-o suflare) și unul dintre jurnaliștii pe care îi apreciez mult de tot.
-    _''Teoria pașilor mici''_ e în topul personal de povești la care mă tot
-    întorc. Bonus, mereu mi-a plăcut cum colecționa dumele pe care le dădeam
-    toți prin redacție și care, desigur, au ajuns și pe Facebook.
+    dintr-o suflare) și unul dintre jurnaliștii pe care eu îi apreciez mult de
+    tot. _''Teoria pașilor mici''_ e în topul personal de povești la care mă tot
+    întorc. Bonus, mi-a plăcut cum colecționa dumele pe care le dădeam toți prin
+    redacție și care, desigur, au ajuns și pe Facebook.
   image: /img/-cic-andreea-giuclea-mug.png
   subtitlu: A treia ediție cu
   titlu: Andreea Giuclea
