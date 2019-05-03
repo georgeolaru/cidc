@@ -50,19 +50,20 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Poze pe Facebook
+  buton_label: Cumpără bilet
   buton_link: >-
-    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=827219160945324
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-3-cu-andreea-giuclea-tickets-61285979013
   descriere: >-
-    George Roșu mi-a făcut cadou de ziua mea un desen cu
-    sertarul_\#astăzimi-aplăcut_, o născocire pentru un exercițiu zilnic de
-    **recunoștință** pe care îl fac de aproape 9 ani. De când l-am primit nu am
-    mai schimbat _wallpaperul_ de pe telefon. E un artist pe care îl urmăresc
-    aproape obsesiv tocmai pentru **autenticitatea** de care dă dovadă în tot ce
-    face. E o bucurie imensă că am ocazia să îl aduc la Iași.
+    O cunosc pe **Andreea Giuclea** de când am lucrat împreună cu ea și restul
+    echipajului DOR la una dintre edițiile _The Power of Storytelling_. E
+    reporter sportiv la Lead.ro și DOR, autoarea cărții _Neînvinșii_ (am citit-o
+    dintr-o suflare) și unul dintre jurnaliștii pe care îi apreciez mult de tot.
+    _''Teoria pașilor mici''_ e în topul personal de povești la care mă tot
+    întorc. Bonus, mereu mi-a plăcut cum colecționa dumele pe care le dădeam
+    toți prin redacție și care, desigur, au ajuns și pe Facebook.
   image: /img/-cic-andreea-giuclea-mug.png
-  subtitlu: A doua ediție cu
-  titlu: George Roșu
+  subtitlu: A treia ediție cu
+  titlu: Andreea Giuclea
 sustinatori:
   descriere: >-
     Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și
