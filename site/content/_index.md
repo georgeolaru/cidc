@@ -50,9 +50,9 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Cumpără bilet
+  buton_label: Vezi fotografiile
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-3-cu-andreea-giuclea-tickets-61285979013
+    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=882859022048004
   descriere: >-
     O cunosc pe **Andreea** de când am lucrat împreună cu ea și restul
     echipajului DOR la una dintre edițiile _The Power of Storytelling_. E
