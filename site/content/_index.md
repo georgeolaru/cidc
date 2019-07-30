@@ -54,11 +54,11 @@ eveniment:
   buton_link: >-
     https://www.eventbrite.com/e/creativ-inainte-de-cafea-4-cu-strasnic-tickets-65505937021
   descriere: >-
-    Mă bucur că la a patra ediție o am alături de mine pe **Gabriela** de la
-    _Strașnic_, un business local de piese făcute manual din lemn masiv.
-    Platourile create în atelier sunt un pretext minunat de strâns oameni în
-    jurul mesei și de încurajat împărtășirea de povești autentice, care ne aduc
-    mai aproape unii de alții.
+    Mă bucur că la a patra ediție, pe **11 august**, în grădina **Pixelgrade**,
+    o am alături de mine pe **Gabriela** de la _Strașnic_, un business local de
+    piese făcute manual din lemn masiv. Platourile create în atelier sunt un
+    pretext minunat de strâns oameni în jurul mesei și de încurajat împărtășirea
+    de povești autentice, care ne aduc mai aproape unii de alții.
   image: /img/-cic-strasnic-cana.png
   subtitlu: A treia ediție cu
   titlu: Gabriela Toderău
