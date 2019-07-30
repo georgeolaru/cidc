@@ -9,7 +9,7 @@ story:
   text: >-
     <p>În 2011 am cunoscut-o pe Adriana — o apariție care m-a surprins cu
     numărul de espresso-uri devorate într-o oră și viteza cu care conecta idei.
-    Șapte ani mai târziu, vorbește domol, și-a reglat relația cu cafeaua, dar
+    Opt ani mai târziu, vorbește domol, și-a reglat relația cu cafeaua, dar
     adună în continuare oameni și construiește <strong>comunități</strong>.</p>
 
     <p>Împreună am făcut Creative Coffee, o întâlnire (aproape) lunară cu
