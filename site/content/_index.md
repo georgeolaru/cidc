@@ -50,20 +50,18 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Vezi fotografiile
+  buton_label: Ia-ți bilet
   buton_link: >-
-    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=882859022048004
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-4-cu-strasnic-tickets-65505937021
   descriere: >-
-    O cunosc pe **Andreea** de când am lucrat împreună cu ea și restul
-    echipajului DOR la una dintre edițiile _The Power of Storytelling_. E
-    reporter sportiv la Lead.ro și DOR, autoarea cărții _Neînvinșii_ (am citit-o
-    dintr-o suflare) și unul dintre jurnaliștii pe care eu îi apreciez mult de
-    tot. _''Teoria pașilor mici''_ e în topul personal de povești la care mă tot
-    întorc. Bonus, mi-a plăcut cum colecționa dumele pe care le dădeam toți prin
-    redacție și care, desigur, au ajuns și pe Facebook.
-  image: /img/-cic-andreea-giuclea-mug.png
+    Mă bucur că la a patra ediție o am alături de mine pe **Gabriela** de la
+    _Strașnic_, un business local de piese făcute manual din lemn masiv.
+    Platourile create în atelier sunt un pretext minunat de strâns oameni în
+    jurul mesei și de încurajat împărtășirea de povești autentice, care ne aduc
+    mai aproape unii de alții.
+  image: /img/-cic-strasnic-cana.png
   subtitlu: A treia ediție cu
-  titlu: Andreea Giuclea
+  titlu: Gabriela Toderău
 sustinatori:
   descriere: >-
     Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și
