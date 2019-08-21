@@ -50,9 +50,9 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Ia-ți bilet
+  buton_label: 'Poze pe Facebook '
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-4-cu-strasnic-tickets-65505937021
+    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=926435227690383
   descriere: >-
     Mă bucur că la a patra ediție, pe **11 august**, în grădina **Pixelgrade**,
     o am alături de mine pe **Gabriela** de la _Strașnic_, un business local de
