@@ -61,7 +61,7 @@ eveniment:
     abia am cunoscut-o anul acesta, Alexandra mi-a transmis de multe ori cât de
     mult îi pasă de ce face, de ce construiește, de cum arată orașul, dar și
     comunitatea. Povestea ei vine la pachet cu provocări și nuanțe pe care cred
-    cu tărie că avem nevoie să le auzim.
+    cu tărie că avem mare nevoie să le auzim.
   image: /img/-cic-alexandra-berdan-cana.png
   subtitlu: A cincea ediție cu
   titlu: Alexandra Berdan
