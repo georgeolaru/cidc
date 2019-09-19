@@ -50,18 +50,21 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: 'Poze pe Facebook '
+  buton_label: Ia-ți bilet
   buton_link: >-
-    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=926435227690383
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-5-cu-alexandra-berdan-tickets-73088530763
   descriere: >-
-    Mă bucur că la a patra ediție, pe **11 august**, în grădina **Pixelgrade**,
-    o am alături de mine pe **Gabriela** de la _Strașnic_, un business local de
-    piese făcute manual din lemn masiv. Platourile create în atelier sunt un
-    pretext minunat de strâns oameni în jurul mesei și de încurajat împărtășirea
-    de povești autentice, care ne aduc mai aproape unii de alții.
-  image: /img/-cic-strasnic-cana.png
-  subtitlu: A treia ediție cu
-  titlu: Gabriela Toderău
+    La a cincea ediție o am alături de mine pe **Alexandra Berdan**, arhitect și
+    owner la
+    [A+Noima](https://www.facebook.com/aplusnoima/?eid=ARB61jP4BJjPp8ZxZI5Ipb0i8pm4UW5bttQmvrHHE0Tk7YcoDepdjX7knviv6RzbStdgknqrFQMMUg2a&timeline_context_item_type=intro_card_work&timeline_context_item_source=1509568158&fref=tag),
+    un studio de arhitectură din Iași unde mandra centrală este _mai bine_. Deși
+    abia am cunoscut-o anul acesta, Alexandra mi-a transmis de multe ori cât de
+    mult îi pasă de ce face, de ce construiește, de cum arată orașul, dar și
+    comunitatea. Povestea ei vine la pachet cu provocări și nuanțe pe care cred
+    cu tărie că avem nevoie să le auzim.
+  image: /img/-cic-alexandra-berdan-cana.png
+  subtitlu: A cincea ediție cu
+  titlu: Alexandra Berdan
 sustinatori:
   descriere: >-
     Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și
