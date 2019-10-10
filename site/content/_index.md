@@ -50,7 +50,7 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Ia-ți bilet
+  buton_label: 'Ups, nu mai sunt bilete'
   buton_link: >-
     https://www.eventbrite.com/e/creativ-inainte-de-cafea-5-cu-alexandra-berdan-tickets-73088530763
   descriere: >-
