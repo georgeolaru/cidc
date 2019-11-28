@@ -69,7 +69,7 @@ sustinatori:
   descriere: >-
     Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și
     cărora le mulțumesc. Fără aceste spirite creative, nu aș fi avut curajul să
-    mă înham la povocarea asta.
+    mă înham la așa ceva.
   titlu: Susținători
 contact:
   descriere: >-
