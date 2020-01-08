@@ -50,26 +50,25 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: 'Ups, nu mai sunt bilete'
+  buton_label: Ia-ți bilet
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-5-cu-alexandra-berdan-tickets-73088530763
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-6-cu-oana-filip-tickets-88636031757
   descriere: >-
-    La a cincea ediție o am alături de mine pe **Alexandra Berdan**, arhitect și
-    owner la
-    [A+Noima](https://www.facebook.com/aplusnoima/?eid=ARB61jP4BJjPp8ZxZI5Ipb0i8pm4UW5bttQmvrHHE0Tk7YcoDepdjX7knviv6RzbStdgknqrFQMMUg2a&timeline_context_item_type=intro_card_work&timeline_context_item_source=1509568158&fref=tag),
-    un studio de arhitectură din Iași unde mandra centrală este _mai bine_. Deși
-    abia am cunoscut-o anul acesta, Alexandra mi-a transmis de multe ori cât de
-    mult îi pasă de ce face, de ce construiește, de cum arată orașul, dar și
-    comunitatea. Povestea ei vine la pachet cu provocări și nuanțe pe care cred
-    cu tărie că avem mare nevoie să le auzim.
-  image: /img/-cic-alexandra-berdan-cana.png
-  subtitlu: A cincea ediție cu
-  titlu: Alexandra Berdan
+    La a șasea ediție sărbătorim **1 an** de când am dat startul la experiența
+    asta, așa că eu voi fi cea care stă pe scaunul de intervievat, acompaniată
+    de nimeni altul decât **Cristian Lupșa**, editor [DOR](https://www.dor.ro/).
+    Simt că nu puteam găsi pe cineva mai potrivit să mă ia la întrebări și sunt
+    recunoscătoare că a acceptat invitația. Cu alte cuvinte, împreună vom scoate
+    în lume povestea mea, cu tot ce înseamnă asta: dorințe, frici, dileme, idei
+    și alte cele.
+  image: /img/-cic-oana-filip-cana.jpg
+  subtitlu: A șasea ediție cu
+  titlu: Oana Filip
 sustinatori:
   descriere: >-
-    Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta și
-    cărora le mulțumesc. Fără aceste spirite creative, nu aș fi avut curajul să
-    mă înham la așa ceva.
+    Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta din
+    prima linie și cărora le mulțumesc. Fără aceste spirite creative, nu aș fi
+    avut curajul să mă înham la așa ceva.
   titlu: Susținători
 contact:
   descriere: >-
