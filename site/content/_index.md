@@ -50,7 +50,7 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: 'Ups, nu mai sunt'
+  buton_label: 'Ups, nu mai sunt bilete'
   buton_link: >-
     https://www.eventbrite.com/e/creativ-inainte-de-cafea-6-cu-oana-filip-tickets-88636031757
   descriere: >-
