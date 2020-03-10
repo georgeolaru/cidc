@@ -54,31 +54,13 @@ eveniment:
   buton_link: >-
     https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=1071475913186313
   descriere: >-
-    \    La a șasea ediție sărbătorim \*\*1 an\*\* de când am dat startul la
-    experiența
-
-
-    \    asta, așa că eu voi fi cea care stă pe scaunul de intervievat,
-    acompaniată
-
-
-    \    de nimeni altul decât \*\*Cristian Lupșa\*\*, editor
-    \[DOR](https://www.dor.ro/).
-
-
-    \    Simt că nu puteam găsi pe cineva mai potrivit să mă ia la întrebări și
-    sunt
-
-
-    \    recunoscătoare că a acceptat invitația. Cu alte cuvinte, împreună vom
-    scoate
-
-
-    \    în lume povestea mea, cu tot ce înseamnă asta: dorințe, frici, dileme,
-    idei
-
-
-    \    și alte cele.
+    La a șasea ediție sărbătorim **1 an** de când am dat startul la experiența
+    asta, așa că eu voi fi cea care stă pe scaunul de intervievat, acompaniată
+    de nimeni altul decât **Cristian Lupșa**, editor [DOR](https://www.dor.ro/).
+    Simt că nu puteam găsi pe cineva mai potrivit să mă ia la întrebări și sunt
+    recunoscătoare că a acceptat invitația. Cu alte cuvinte, împreună vom scoate
+    în lume povestea mea, cu tot ce înseamnă asta: dorințe, frici, dileme, idei
+    și alte cele.
   image: /img/-cic-oana-filip-cana.jpg
   subtitlu: A șasea ediție cu
   titlu: Oana Filip
