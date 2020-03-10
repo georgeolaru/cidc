@@ -68,12 +68,6 @@ sustinatori:
   descriere: >-
     Mai jos sunt oamenii care contribuie din prima linie și a căror abilități complementare își pun amprenta asupra experienței de la fiecare ediție.
   titlu: Echipă
-contact:
-  descriere: >-
-    Vremuri mai bune de stat la povești nu au fost. Pe mine, cel mai ușor mă
-    găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel
-    încât să fiu generoasă atunci când îți răspund.
-  titlu: De găsit
 newsletter:
   image: /img/-cic-george-rosu-mug.png
   subtitle: 'Înscrie-te cu adresa ta de e-mail aici:'
