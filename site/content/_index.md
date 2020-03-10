@@ -50,9 +50,9 @@ story:
     <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: 'Ups, nu mai sunt bilete'
+  buton_label: 'Vezi fotografii de la ediția aniversară'
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-6-cu-oana-filip-tickets-88636031757
+    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=1071475913186313
   descriere: >-
     La a șasea ediție sărbătorim **1 an** de când am dat startul la experiența
     asta, așa că eu voi fi cea care stă pe scaunul de intervievat, acompaniată
@@ -66,15 +66,20 @@ eveniment:
   titlu: Oana Filip
 sustinatori:
   descriere: >-
-    Mai jos sunt câțiva dintre oamenii care mă susțin în provocarea asta din
-    prima linie și cărora le mulțumesc. Fără aceste spirite creative, nu aș fi
-    avut curajul să mă înham la așa ceva.
-  titlu: Susținători
+    Mai jos sunt oamenii care contribuie din prima linie și a căror abilități complementare își pun amprenta asupra experienței de la fiecare ediție.
+  titlu: Echipă
 contact:
   descriere: >-
     Vremuri mai bune de stat la povești nu au fost. Pe mine, cel mai ușor mă
     găsești pe mail. În felul ăsta am șansa să îți aloc spațiu și timp astfel
     încât să fiu generoasă atunci când îți răspund.
   titlu: De găsit
+newsletter:
+  image: /img/-cic-george-rosu-mug.png
+  subtitle: 'Înscrie-te cu adresa ta de e-mail aici:'
+  title: Newsletter
+  text: >-
+    <p>Mă voi prezenta cu aceeași autenticitate în fața ta ca să îți dau de veste despre ce și cum cred eu că merită susținut. Generozitatea, chiar și pur informativă, ne ajută să fim solidari și să facem comunitatea mai bună.</p>
+  image: "/img/cana-random-8.png"
 ---
 

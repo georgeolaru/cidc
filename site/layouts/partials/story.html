@@ -1,6 +1,6 @@
 <article class="ph3 pv4 pa5-ns tertiary-4 bg-tertiary story">
   <div class="container flex-l justify-between">
-    <img src="img/avatar-oana.jpg" class="self-start w-100 ma w-50-m w-30-l mr5-ns">
+    <img src="img/avatar-oana2.png" class="self-start w-100 ma w-50-m w-30-l mr5-ns">
     <div class="measure-wide lh-copy w-70-l">
         <h3 class="f3 alt primary-2 dn db-l">
           {{ .Params.story.subtitle }}
@@ -33,36 +33,50 @@
     <div class="measure-wide lh-copy w-70-l">
         <h3 class="f1 f2-ns f1-m f2-l alt lh-solid">{{ .Params.sustinatori.titlu }}</h3>
         <p class="mb1 mt3">{{ .Params.sustinatori.descriere | markdownify }}</p>
-        <div class="mt4 flex flex-wrap justify-between">
-          <div class="w-40 tc mb4">
-            <img src="img/avatar-ilinca.jpg" class="">
+        <div class="mt4 flex flex-wrap justify-between tc">
+          <div class="w-40 mb3">
+            <img src="img/echipa-avatar-oana.png" class="">
+            <h3 class="f3 alt">Oana</h3>
+            <p class="dn f6 db-ns pl3 pr3">Gazdă și community builder</p>
+          </div>
+          <div class="w-40 mb3">
+            <img src="img/echipa-avatar-ilinca.png" class="">
             <h3 class="f3 alt">Ilinca</h3>
+            <p class="dn f6 db-ns">Designer și creatoarea brandului</p>
           </div>
-           <div class="w-40 tc mb0">
-            <img src="img/avatar-katerina.jpg" class="">
+          <div class="w-40 mb3">
+            <img src="img/echipa-avatar-george.png" class="">
+            <h3 class="f3 alt">George</h3>
+            <p class="dn f6 db-ns">Designer și creator de experiență</p>
+          </div>
+           <div class="w-40 mb3">
+            <img src="img/echipa-avatar-alexandra.png" class="">
+            <h3 class="f3 alt">Alexandra</h3>
+            <p class="dn f6 db-ns">Arhitect și creatoare de experiență</p>
+          </div>
+          <div class="w-40 mb0">
+            <img src="img/echipa-avatar-katerina.png" class="">
             <h3 class="f3 alt">Katerina</h3>
+            <p class="dn f6 db-ns mb0">Fotograf și creatoare de experiență</p>
           </div>
-          <div class="w-40 tc mb4">
-            <img src="img/avatar-adriana.jpg" class="">
-            <h3 class="f3 alt">Adriana</h3>
-          </div>
-           <div class="w-40 tc mb0">
-            <img src="img/avatar-diana.jpg" class="">
-            <h3 class="f3 alt">Diana</h3>
+           <div class="w-40 mb0">
+            <img src="img/echipa-avatar-oanag.png" class="">
+            <h3 class="f3 alt">Oana</h3>
+            <p class="dn f6 db-ns mb0">Fotograf și creatoare de experiență</p>
           </div>
         </div>
     </div>
   </div>
 </article>
 
-<article class="ph3 pv4 pa5-ns tertiary bg-primary-2 story">
-  <div class="container flex-l items-center">
-    <img src="img/cana-random-8.png" class="self-start w-90 w-50-m w-30-l mr5-ns dn db-l">
-    <!-- <img src="img/empty.png" class="self-start w-90 w-50-m w-30-l mr5-ns"> -->
-    <div class="measure-narrow lh-copy w-70-l">
-        <h1 class="f2 f2-ns f1-m f2-l alt lh-solid">{{ .Params.contact.titlu }}</h1>
-        <p class="mb4 mt3">{{ .Params.contact.descriere | markdownify }}</p>
-        <a class="f4 link alt" href="mailto:oana@pixelgrade.com">Scrie-mi un mail →</a>
+<article class="ph3 pv4 pa5-ns tertiary bg-primary-2 home-newsletter">
+  <div class="container flex-l justify-between">
+    <img src="{{ .Params.newsletter.image }}" class="self-start w-90 w-50-m w-30-l mr5-ns mb3 mt3 mt0-l">
+    <div class="measure-wide lh-copy w-70-l">
+        <h3 class="f1 alt">{{ .Params.newsletter.title }}</h4>
+        {{ .Params.newsletter.text | safeHTML }}
+        <h3 class="f4 alt mb3 mt3">{{ .Params.newsletter.subtitle }}</h3>
+    {{ partial "newsletter-form" . }}
     </div>
   </div>
 </article>

@@ -80,3 +80,9 @@ body #mc_embed_signup div.mce_inline_error {
   background: none;
   font-size: 0.7em;
 }
+
+body .home-newsletter #mc_embed_signup div.mce_inline_error {
+  color: var(--secondary);
+}
+
+
