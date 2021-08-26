@@ -57,7 +57,7 @@ eveniment:
     După 20 de luni de la ultima ediție Creativ înainte de cafea în persoană, pe
     5 septembrie o descos pe **Andra Petcu** de la Flairscent. Creatoare a unei
     întreprinderi sociale în care produce lumânări din ceară de soia și alte
-    bijuterii de aproape șase ani, Andra își păstrează și astăzi un spirit ludic
+    bijuterii de aproape șase ani, Andra își păstrează și astăzi spiritul ludic
     în tot ceea ce face.
   image: /img/-cic-cana-alexandra-petcu-flair-scent.png
   subtitlu: A noua ediție cu
