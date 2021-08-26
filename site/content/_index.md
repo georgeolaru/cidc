@@ -50,20 +50,18 @@ story:
         <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
 eveniment:
-  buton_label: Vezi fotografii de la ediția aniversară
+  buton_label: Vrei bilet?
   buton_link: >-
-    https://www.facebook.com/pg/creativinaintedecafea/photos/?tab=album&album_id=1071475913186313
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-8-cu-andra-petcu-tickets-168389839543?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
   descriere: >-
-    La a șasea ediție sărbătorim **1 an** de când am dat startul la experiența
-    asta, așa că eu voi fi cea care stă pe scaunul de intervievat, acompaniată
-    de nimeni altul decât **Cristian Lupșa**, editor [DOR](https://www.dor.ro/).
-    Simt că nu puteam găsi pe cineva mai potrivit să mă ia la întrebări și sunt
-    recunoscătoare că a acceptat invitația. Cu alte cuvinte, împreună vom scoate
-    în lume povestea mea, cu tot ce înseamnă asta: dorințe, frici, dileme, idei
-    și alte cele.
-  image: /img/-cic-oana-filip-cana.jpg
-  subtitlu: A șasea ediție cu
-  titlu: Oana Filip
+    După 20 de luni de la ultima ediție _Creativ înainte de cafea_ în persoană,
+    pe 5 septembrie o descos pe **Andra Petcu **de la** Flairscent. **Creatoarea
+    unei** **întreprinderi sociale în care produce lumânări din ceară de soia și
+    alte bijuterii de aproape șase ani, Andra își păstrează și astăzi un spirit
+    ludic în tot ceea ce face.
+  image: /img/-cic-cana-alexandra-petcu-flair-scent.png
+  subtitlu: A noua ediție cu
+  titlu: Andra Petcu
 sustinatori:
   descriere: >-
     Mai jos sunt oamenii care contribuie din prima linie și a căror abilități
