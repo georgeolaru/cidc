@@ -64,7 +64,7 @@ eveniment:
   titlu: Andra Petcu
 sustinatori:
   descriere: >-
-    Mai jos sunt oamenii care contribuie din prima linie și a căror abilități
+    Mai jos sunt oamenii care contribuie în prima linie și a căror abilități
     complementare își pun amprenta asupra experienței de la fiecare ediție.
   titlu: Echipă
 newsletter:
