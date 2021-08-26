@@ -55,8 +55,8 @@ eveniment:
     https://www.eventbrite.com/e/creativ-inainte-de-cafea-8-cu-andra-petcu-tickets-168389839543?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
   descriere: >-
     După 20 de luni de la ultima ediție _Creativ înainte de cafea_ în persoană,
-    pe 5 septembrie o descos pe **Andra Petcu **de la** Flairscent. **Creatoarea
-    unei** **întreprinderi sociale în care produce lumânări din ceară de soia și
+    pe 5 septembrie o descos pe** Andra Petcu de la Flairscent**. Creatoarea
+    unei întreprinderi sociale în care produce lumânări din ceară de soia și
     alte bijuterii de aproape șase ani, Andra își păstrează și astăzi un spirit
     ludic în tot ceea ce face.
   image: /img/-cic-cana-alexandra-petcu-flair-scent.png
