@@ -52,14 +52,13 @@ story:
 eveniment:
   buton_label: Vrei bilet?
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-8-cu-andra-petcu-tickets-168389839543?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-10-cu-alexandra-ghioc-tickets-249115740887
   descriere: >-
-    După 20 de luni de la ultima ediție Creativ înainte de cafea în persoană, pe
-    5 septembrie o descos pe **Andra Petcu** de la Flairscent. Creatoare a unei
-    întreprinderi sociale în care produce lumânări din ceară de soia și alte
-    bijuterii de aproape șase ani, Andra își păstrează și astăzi spiritul ludic
-    în tot ceea ce face.
-  image: /img/-cic-cana-alexandra-petcu-flair-scent.png
+    Pe 13 februarie, o descos pe **Alexandra Ghioc** de la ELECTRA, o companie
+    100% românească, specializată în proiectarea, dezvoltarea și producția de
+    sisteme de interfonie, control acces și echipamente electronice. Activează
+    din anul 1991 în România, dar și pe piețele internaționale
+  image: /img/-cic-cana-alexandra-ghioc-3.gif
   subtitlu: A noua ediție cu
   titlu: Andra Petcu
 sustinatori:
