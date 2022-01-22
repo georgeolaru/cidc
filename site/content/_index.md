@@ -60,7 +60,7 @@ eveniment:
     din anul 1991 în România, dar și pe piețele internaționale
   image: /img/-cic-cana-alexandra-ghioc-static.png
   subtitlu: A zecea ediție cu
-  titlu: Andra Petcu
+  titlu: Alexandra Ghioc
 sustinatori:
   descriere: >-
     Mai jos sunt oamenii care contribuie în prima linie și a căror abilități
