@@ -57,7 +57,7 @@ eveniment:
     Pe 13 februarie, o descos pe **Alexandra Ghioc** de la ELECTRA, o companie
     100% românească, specializată în proiectarea, dezvoltarea și producția de
     sisteme de interfonie, control acces și echipamente electronice. Activează
-    din anul 1991 în România, dar și pe piețele internaționale
+    din anul 1991 în România, dar și pe piețele internaționale.
   image: /img/-cic-cana-alexandra-ghioc-static.png
   subtitlu: A zecea ediție cu
   titlu: Alexandra Ghioc
