@@ -59,7 +59,7 @@ eveniment:
     sisteme de interfonie, control acces și echipamente electronice. Activează
     din anul 1991 în România, dar și pe piețele internaționale
   image: /img/-cic-cana-alexandra-ghioc-3.gif
-  subtitlu: A noua ediție cu
+  subtitlu: A zecea ediție cu
   titlu: Andra Petcu
 sustinatori:
   descriere: >-
