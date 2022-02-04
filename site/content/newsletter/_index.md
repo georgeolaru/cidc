@@ -1,6 +1,6 @@
 ---
 title: Newsletter Creativ înainte de cafea
-descriere: Înscrie-te la newsletter și voi bate la poarta ta digitala cu povești despre oamenii, proiectele și inițiativele din comunitate.
+descriere: Înscrie-te la newsletter ca să primești povești despre cum modelez experiența asta și ce învăț pe parcurs.
 story:
   image: /img/avatar-oana-bg-primary-2.jpg
   subtitle: Newsletter
