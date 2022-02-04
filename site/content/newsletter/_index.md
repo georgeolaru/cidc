@@ -20,7 +20,7 @@ newsletter:
   subtitle: 'Înscrie-te cu adresa ta de e-mail aici:'
   title: Vrei să îți dau de veste?
   text: >-
-    <p>Mă voi prezenta cu aceeași autenticitate în fața ta ca să îți dau de veste despre ce și cum cred eu că merită susținut. Generozitatea, chiar și pur informativă, ne ajută să fim solidari și să facem comunitatea mai bună.</p>
+    <p>Mă voi prezenta cu același zvâc ca să îți dau de veste despre ce și cum cred că merită povestit și susținut. Generozitatea, chiar și pur informativă, ne ajută să fim solidari și să facem comunitatea mai bună.</p>
   image: "/img/-cic-george-rosu-mug.png"
 ---
 
