@@ -52,15 +52,15 @@ story:
 eveniment:
   buton_label: Vrei bilet?
   buton_link: >-
-    https://www.eventbrite.com/e/creativ-inainte-de-cafea-10-cu-alexandra-ghioc-tickets-249115740887
+    https://www.eventbrite.com/e/creativ-inainte-de-cafea-11-cu-marian-zancianu-tickets-317528284647
   descriere: >-
-    Pe 13 februarie, o descos pe **Alexandra Ghioc** de la ELECTRA, o companie
-    100% românească, specializată în proiectarea, dezvoltarea și producția de
-    sisteme de interfonie, control acces și echipamente electronice. Activează
-    din anul 1991 în România, dar și pe piețele internaționale.
-  image: /img/-cic-cana-alexandra-ghioc-static.png
-  subtitlu: A zecea ediție cu
-  titlu: Alexandra Ghioc
+    Pe **15 mai**, îl iau la întrebări și curiozități pe **Marian Zăncianu**,
+    chef și antreprenor la Zori. Povestea lui depășește limitele bucătăriei de
+    pe Sfântul Andrei din Iași și arată în câte feluri poate contribui cineva nu
+    doar la binele propriul, ci și la cel colectiv.
+  image: /img/-cic-marian-zancianu-cana-site.png
+  subtitlu: A 11-a ediție cu
+  titlu: Marian Zăncianu
 sustinatori:
   descriere: >-
     Mai jos sunt oamenii care contribuie în prima linie și a căror abilități
