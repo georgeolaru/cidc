@@ -1,8 +1,9 @@
 ---
 title: Creativ înainte de cafea
-descriere: |-
-  Creativ înainte de cafea este o metaforă ascunsă sub forma unui eveniment pe
-    care îl voi pune cap-la-cap de fiecare dată când o să simt că pot să scot o
+descriere: >-
+  Creativ înainte de cafea este o metaforă ascunsă sub forma unei experiențe
+  live pe
+    care o voi pune cap-la-cap de fiecare dată când o să simt că pot să scot o
     poveste de felul ăsta în lume.
 story:
   subtitle: 'Salut,'
@@ -10,14 +11,14 @@ story:
     <p>În 2011 am cunoscut-o pe Adriana — o apariție care m-a surprins cu
         numărul de espresso-uri devorate într-o oră și viteza cu care conecta idei.
         11 ani mai târziu, vorbește domol, și-a reglat relația cu cafeaua, dar
-        conectează în continuare oameni și construiește <strong>comunități</strong>.</p>
+        conectează în continuare oameni cu interese similare.</p>
 
         <p>Împreună am făcut Creative Coffee, o întâlnire (aproape) lunară cu
         antreprenori din <strong>industriile creative</strong>. Am ținut-o așa trei
         ani, dintre care ultimul l-am petrecut singură la vâsle și am avut timp să
         îmi iau multe bobârnace, dar și să adun lecții utile la casa omului.
         Creative Coffee mi-a fost ca o școală alternativă de disciplină, inițiativă
-        și dorință de schimbare.</p>
+        și dorință de schimbare. Am ajuns cu proiectul în peste 10 orașe din toată lumea și nu o singură dată am fost întrebată dacă e adevărat că startul a fost în Iași.</p>
 
         <p class="bt--dotted bt bw2 b--primary-2  pt4 mt4"><strong>Astăzi</strong>,
         după un carusel intens de emoții de toate felurile, depășirea unor frici și
@@ -34,8 +35,7 @@ story:
 
         <img src="img/logo-alb-1.png" class="w-100 w-90-ns mv4">
 
-        <p><em>Creativ înainte de cafea</em> este o metaforă ascunsă sub forma unui
-        eveniment pe care îl voi pune cap-la-cap de fiecare dată când o să simt că
+        <p><em>Creativ înainte de cafea</em> este o metaforă ascunsă sub forma unei experiențe live pe care o voi pune cap-la-cap de fiecare dată când o să simt că
         pot să scot o poveste de felul ăsta în lume. Timp de o oră, poate un pic mai
         mult, voi sta de vorbă cu un creativ despre <strong>dilemele, îngrijorările,
         frustrările, anxietățile, bucuriile și reușitele</strong> pe care le
@@ -43,8 +43,7 @@ story:
         într-o călătorie <em>înainte de cafea</em>, în care suntem noi cu noi,
         onești și <em>pe bune</em>.</p>
 
-        <p>Îmi doresc să punem frână împreună la ritmul nebun al vieții digitale și
-        non-digitale și vreme de o oră și jumătate să construim o lume a
+        <p>Îmi doresc ca în diminețile petrecute împreună să punem frână la ritmul nebun al vieții digitale și non-digitale și vreme de o oră și jumătate să construim o lume a
         noastră.</p>
 
         <p>Cu bucurie,<br>Oana</p>
@@ -71,9 +70,9 @@ newsletter:
   subtitle: 'Înscrie-te cu adresa ta de e-mail aici:'
   text: >-
     <p>Mă voi prezenta cu aceeași autenticitate în fața ta ca să îți dau de
-    veste despre ce și cum cred eu că merită susținut. Generozitatea, chiar și
-    pur informativă, ne ajută să fim solidari și să facem comunitatea mai
-    bună.</p>
+    veste despre ce și cum cred eu că merită susținut și povestit.
+    Generozitatea, chiar și pur informativă, ne ajută să fim solidari și să
+    facem comunitatea mai bună.</p>
   title: Newsletter
 ---
 
