@@ -43,8 +43,7 @@ story:
         într-o călătorie <em>înainte de cafea</em>, în care suntem noi cu noi,
         onești și <em>pe bune</em>.</p>
 
-        <p>Îmi doresc ca în diminețile petrecute împreună să punem frână la ritmul nebun al vieții digitale și non-digitale și vreme de o oră și jumătate să construim o lume a
-        noastră.</p>
+        <p>Îmi doresc ca în diminețile petrecute împreună să punem frână la ritmul nebun al vieții digitale și non-digitale și să construim o lume a noastră.</p>
 
         <p>Cu bucurie,<br>Oana</p>
   titlu: Sunt Oana și vreau să îți spun o poveste.
